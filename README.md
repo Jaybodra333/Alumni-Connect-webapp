@@ -136,8 +136,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ---
 
----
-
 ## 📧 Contact
 
 For any inquiries or feedback, please contact:
