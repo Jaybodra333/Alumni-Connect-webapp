@@ -5,7 +5,6 @@ Alumni-Connect is a platform designed to foster meaningful interactions between 
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react) 
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js) 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square&logo=mongodb) 
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ---
 
