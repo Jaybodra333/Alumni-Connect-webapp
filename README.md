@@ -138,5 +138,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## 📧 Contact
 
 For any inquiries or feedback, please contact:
-- **Email**: jaybodara18@gmail.com
+- **Email**: jaybodara18@gmail.com / jadavmohit92@gmail.com
 - **GitHub**: https://github.com/Jaybodra333
